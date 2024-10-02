@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vlocator</string>
+    <string name="permission_denied_explanation">Permissão de localização negada. Ative a permissão nas configurações do aplicativo.</string>
+    <string name="settings">Configurações</string>
+    <string name="ok">Permissão de localização recebida com sucesso</string>
+    <string name="permission_background_rationale" />
+    <string name="permission_rationale" />
+    <string name="launch_activity">Localização Iniciada\n</string>
+    <string name="stop_location_updates_button_text">Localização Finalizada</string>
+    <string name="preference_file_key">\n</string>
+    <string name="location_format">Lat: %1$s, Long: %2$s</string>
+</resources>
